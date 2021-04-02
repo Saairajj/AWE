@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is a website showcasing the works of
 
-Template Name: Knight
-Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+AKSHAY ENGINEERING WORKS.
